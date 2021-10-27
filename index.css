@@ -1,21 +1,12 @@
-p {
-  color: green;
-}
-
 h1 {
-  font-size: 32px;
-  color: black;
-  text-align: center;
+  font-size: 72px;
+  background-color: green;
+  color: white;
+  border-bottom: 3px solid black;
 }
 
-h2 {
-  font-size: 500px;
+p {
+  font-size: 18px;
   color: black;
-  margin-bottom: 500px;
-}
-
-div {
-  height: 100px;
-  width: 100px;
-  background-color: blue;
+  margin: 5px 0;
 }
