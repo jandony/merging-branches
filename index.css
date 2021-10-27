@@ -13,3 +13,8 @@ h2 {
   color: black;
   margin-bottom: 500px;
 }
+
+div {
+  height: 500px;
+  width: 500px;
+}
