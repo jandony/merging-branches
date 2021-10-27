@@ -9,12 +9,12 @@ h1 {
 }
 
 h2 {
-  font-size: 26px;
-  color: pink;
-  margin-bottom: 20px;
+  font-size: 30px;
+  color: blue;
+  margin-bottom: 10px;
 }
 
 div {
-  height: 20px;
-  width: 50px;
+  height: 10px;
+  width: 30px;
 }
