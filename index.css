@@ -4,7 +4,7 @@ body {
 
 h1 {
     font-size: 72px;
-    background-color: #2d333b;
+    background-color: teal;
     color: white;
     border-bottom: 3px solid rgb(202, 202, 202);
 }
@@ -22,8 +22,8 @@ p {
 }
 
 section {
-    background-color: #2d333b;
-    padding: 45px;
+    background-color: tomato;
+    padding: 50px;
     margin: 25px 0;
     border-radius: 12px;
     max-width: 50%;
