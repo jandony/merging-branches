@@ -1,30 +1,30 @@
 body {
-  background-color: #22272d;
+    background-color: #22272d;
 }
 
 h1 {
-  font-size: 72px;
-  background-color: #2d333b;
-  color: white;
-  border-bottom: 3px solid rgb(202, 202, 202);
+    font-size: 72px;
+    background-color: #2d333b;
+    color: white;
+    border-bottom: 3px solid rgb(202, 202, 202);
 }
 
 h2 {
-  color: lightblue;
-  padding-bottom: 5px;
-  border-bottom: 1px solid white;
+    color: #fff;
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
 }
 
 p {
-  font-size: 18px;
-  color: white;
-  margin: 5px 0;
+    font-size: 18px;
+    color: white;
+    margin: 5px 0;
 }
 
 section {
-  background-color: #2d333b;
-  padding: 45px;
-  margin: 25px 0;
-  border-radius: 12px;
-  max-width: 50%;
+    background-color: #2d333b;
+    padding: 45px;
+    margin: 25px 0;
+    border-radius: 12px;
+    max-width: 50%;
 }
