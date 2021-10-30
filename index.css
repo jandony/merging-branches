@@ -23,8 +23,8 @@ p {
 
 section {
     background-color: tomato;
-    padding: 50px;
+    padding: 100px;
     margin: 25px 0;
     border-radius: 12px;
-    max-width: 50%;
+    max-width: 100%;
 }
