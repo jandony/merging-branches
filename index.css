@@ -22,9 +22,9 @@ p {
 }
 
 section {
-    background-color: #2d333b;
-    padding: 45px;
+    background-color: tomato;
+    padding: 100px;
     margin: 25px 0;
     border-radius: 12px;
-    max-width: 50%;
+    max-width: 100%;
 }
