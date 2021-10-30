@@ -1,28 +1,28 @@
 body {
-    background-color: #000;
+    background-color: #fff;
 }
 
 h1 {
     font-size: 40px;
-    background-color: black;
+    background-color: red;
     color: white;
     border-bottom: 3px solid rgb(202, 202, 202);
 }
 
 h2 {
-    color: white;
+    color: blue;
     padding-bottom: 5px;
     border-bottom: 1px solid green;
 }
 
 p {
     font-size: 18px;
-    color: skyblue;
+    color: green;
     margin: 5px 0;
 }
 
 section {
-    background-color: black;
+    background-color: tomato;
     padding: 25px;
     margin: 50px;
     border-radius: 12px;
